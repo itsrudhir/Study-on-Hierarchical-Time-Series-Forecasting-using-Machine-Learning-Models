@@ -4,7 +4,7 @@
 
 Link for notebook : https://www.kaggle.com/code/rudhirmahalik/dynamic-hierarchical-time-series
 
-Dataset : https://www.kaggle.com/competitions/m5-forecasting-accuracy/data
+Link for Dataset : https://www.kaggle.com/competitions/m5-forecasting-accuracy/data
 
  
 

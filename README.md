@@ -1,8 +1,12 @@
-# Dynamic-Hierarchical-Forecast
+# Dynamic Hierarchical Forecast
+
+=========================================================================================== 
 
 Link for notebook : https://www.kaggle.com/code/rudhirmahalik/dynamic-hierarchical-time-series
 
 Dataset : https://www.kaggle.com/competitions/m5-forecasting-accuracy/data
+
+============================================================================================
 
 **ABSTRACT:**
 Hierarchical forecasting methods are extensively utilized for precise decision-making by providing coherent forecasts across various levels. In the context of supply chains (SC), managers and sales executives frequently require forecasts at different SC levels to facilitate optimal decision-making, taking into account multiple features and dependencies. top-down (TD), Bottom-Up (BU), and Middle-Out (MO) are some of the prevalent hierarchical forecasts (HF) reconciliation approaches. Traditionally, statistical models are employed in HF. However, these static approaches often overlook the dynamic nature of the series during disaggregation, potentially resulting in suboptimal performance, particularly when the investigated time series undergoes substantial changes, such as during promotional sales.

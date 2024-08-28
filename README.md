@@ -1,5 +1,4 @@
-# Dynamic Hierarchical Forecast
-
+# Study on Hierarchical Time Series Forecasting using Machine Learning Models
  
 
 Link for notebook : https://www.kaggle.com/code/rudhirmahalik/hts-notebook

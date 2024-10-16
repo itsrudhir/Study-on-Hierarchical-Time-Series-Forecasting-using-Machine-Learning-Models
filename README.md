@@ -1,4 +1,4 @@
-# Study on Hierarchical Time Series Forecasting using Machine Learning Models
+## Study on Hierarchical Time Series Forecasting using Machine Learning Models
 
 Link for the [**Preprint**](http://dx.doi.org/10.21203/rs.3.rs-4991584/v1)
 

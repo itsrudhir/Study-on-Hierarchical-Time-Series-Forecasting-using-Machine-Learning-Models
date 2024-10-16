@@ -2,7 +2,7 @@
 
 # *links:-*
 
-# [**Preprint version of paper**](http://dx.doi.org/10.21203/rs.3.rs-4991584/v1) 
+# [**Preprint of Research Paper**](http://dx.doi.org/10.21203/rs.3.rs-4991584/v1) 
 # [**< Notebook link >**](https://www.kaggle.com/code/rudhirmahalik/hts-notebook) 
 # [**< Dataset link >**](https://www.kaggle.com/competitions/m5-forecasting-accuracy/data)
 
